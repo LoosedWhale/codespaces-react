@@ -1,12 +1,13 @@
 import './App.css';
 
+
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="Octocat.png" className="App-logo" alt="logo" />
+        <div className="Robot"> </div>
         <p>
-          GitHub Codespaces using React
+          GitHub Codespaces using React & Pain \o/
         </p>
       </header>
     </div>

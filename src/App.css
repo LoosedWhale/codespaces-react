@@ -6,9 +6,16 @@
   height: 40vmin;
   pointer-events: none;
 }
+.Robot {
+  width: 250px;
+  height: 250px;
+  background-image: url("./assets/robot.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
 
 .App-header {
-  background-color: #282c34;
+  background-color: #30353f;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
